@@ -2,6 +2,6 @@
 A basic Trello like UI for Desktop View in React
 
 View here:
-https://codesandbox.io/s/github/sahtushar/TRELLO_UI_REACT
+https://ikqci.csb.app/
 
 Created with CodeSandbox
